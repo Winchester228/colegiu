@@ -18,7 +18,7 @@ public class AppTest {
     static public String USER_SURNAME = "Sandu";
     static public String USER_EMAIL = "maxsandu@gmail.com";
     static public String USER_GENDER = "Male";
-    static public String USER_DOB = "1 March,2006";
+    static public String USER_DOB = "01 March,2006";
     static public String USER_NUMBER = "0123456789";
     static public String USER_SUBJECT = "Physics";
     static public String USER_HOBBY = "Sports";
